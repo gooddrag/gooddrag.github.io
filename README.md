@@ -1,2 +1,2 @@
-# gooddrag.github.io
+# GoodDrag-Page
 Webssite for GoodDrag.
