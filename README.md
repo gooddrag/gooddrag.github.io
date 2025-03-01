@@ -1,2 +1,2 @@
 # GoodDrag-Page
-Webssite for GoodDrag.
+Website for GoodDrag.
